@@ -1,0 +1,20 @@
+name: "Omid Gholamalamdari"
+output_dir: "."
+navbar:
+  title: "Omid Gholamalamdari"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html      
+    - text: "Software"
+      href: software.html
+    - text: "Protocols"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
