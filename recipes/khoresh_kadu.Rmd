@@ -1,0 +1,14 @@
+---
+title: "khoresh_kadu"
+author: "Omid G.Alamdari"
+date: "8/7/2018"
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Materials
+
+### For stew
+
+### For rice
