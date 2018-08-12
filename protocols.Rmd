@@ -10,4 +10,4 @@ output: html_document
 
 ## Kitchen protocols
 
-Stay tuned.
+Stay tuned for the recent development in khoresh kadoo (Zuccini stew)!
