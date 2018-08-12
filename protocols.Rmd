@@ -1,6 +1,5 @@
 ---
 title: "Protocols"
-date: "Updated on August 7<sup>th</sup> 2018"
 output: html_document
 ---
 
