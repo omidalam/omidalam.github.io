@@ -10,7 +10,7 @@ navbar:
     - text: "Software"
       href: software.html
     - text: "Protocols"
-      href: teaching.html
+      href: protocols.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
