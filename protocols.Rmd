@@ -6,7 +6,7 @@ output: html_document
 
 ## Lab protocols
 
-+ [FISH with replication timing control in K562](prtocols/FISH_Edu.html)
++ [Preparing and labeling FISH probes from a complex oligo library](recipes/ePCR.html) ([pdf](recipes/ePCR.pdf))
 
 ## Kitchen protocols
 
