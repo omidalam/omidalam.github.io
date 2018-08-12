@@ -10,4 +10,4 @@ output: html_document
 
 ## Kitchen protocols
 
-+ [Zuccini stew with rice](recipes/zuccini_stew.html)
+Stay tuned.

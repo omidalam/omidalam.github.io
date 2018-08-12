@@ -1,0 +1,6 @@
+---
+title: "Contacts"
+output: html_document
+---
+
+You can find me at gholam-at-omidalam.com or gholama2-at-illinois.edu.
