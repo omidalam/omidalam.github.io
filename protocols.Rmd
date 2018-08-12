@@ -5,7 +5,7 @@ output: html_document
 
 ## Lab protocols
 
-+ [Preparing and labeling FISH probes from a complex oligo library](./protcols/ePCR.html) ([pdf](./protocols/ePCR.pdf))
++ [Preparing and labeling FISH probes from a complex oligo library](./protocols/ePCR.html) ([pdf](./protocols/ePCR.pdf))
 + [Cleaning stir bars for ePCR](./protocols/cleaning_stir_bars.html) ([pdf](./cleaning_stir_bars.pdf))
 
 ## Kitchen protocols
