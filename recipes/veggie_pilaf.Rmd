@@ -1,0 +1,55 @@
+---
+title: "Vegeterian Pilaf"
+author: "omidalam"
+date: "Last cooked on 9/23/2018"
+output: pdf_document
+---
+
+## Materials
+
+
+|Material             | Amount                      |
+|---------------------|-----------------------------|
+| Split peas*          | 2/3 cup                   |
+| Mushrooms           | 1.5 cup chopped             |
+| Homegrown tomatoes  | 2 cup chopped               |
+| Basmati rice                | 3 cups                      |
+| Tummeric            | 1 tea spoon                 |
+| Bayleaves (lorbeer) | 2 leaves                    |
+| Jalapeño**         | 1  ~10 long                  |
+| Saffron             | 1 pinch                     |
+| Cinnamon sticks     | 2 ~8cm long                 |
+| Oil               | 2 Table spoon                 |
+| Water               | 2 cups                     |
+
+_*Soaked for 20 min at RT. Rinse. Topped with fresh tap water (2 cm over the split peas). Cooked with salt (a pinch) and pepper for 20 min on medium hit._
+
+_** Grooved with pairing knife on four sides._
+
+## Procedure
+
+1. Dumped everything in a large pot.
+2. Stirred to mix with a wooden apoon.
+3. Turned on the stove on max.
+4. When the water started to boil, turned down heat to 25% of max(aka medium-low).
+5. Covered the pot with apaper towel and the lid.
+    + Paper towel as an insulator.
+6. Cooked for 20 minutes.
+8. Served with FAGÉ greek yugort as side dish.
+
+
+## Results
+
+1. It was good.
+2. The rice was maybe too sticky.
+    + Maybe reduce the heat for cooking period to 10% max.
+3. Vegtable to rice ratio was low.
+    + Tomatoes were disintegrated and only their skins were visible
+    + Use carrots.
+    + Use other vegies.
+    
+    
+    
+    
+
+
