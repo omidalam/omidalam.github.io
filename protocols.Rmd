@@ -7,7 +7,7 @@ output: html_document
 
 + [Preparing and labeling FISH probes from a complex oligo library](https://cdn.rawgit.com/omidalam/FISH_oligo_lib/be4f068e/ePCR.html) ([pdf](https://cdn.rawgit.com/omidalam/FISH_oligo_lib/be4f068e/ePCR.pdf))
 + [Cleaning stir bars for ePCR](./protocols/cleaning_stir_bars.html) ([pdf](./cleaning_stir_bars.pdf))
-+ [3D-FISH in HCT116](./protocols/3D-FISH_HCT116.html) ([pdf](./protocols/3D-FISH_HCT116..pdf))
++ [3D-FISH in HCT116](./protocols/3D-FISH_HCT116.html) ([pdf](./protocols/3D-FISH_HCT116.pdf))
 
 ## Kitchen protocols
 
