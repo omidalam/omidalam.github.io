@@ -5,8 +5,9 @@ output: html_document
 
 ## Lab protocols
 
-+ [Preparing and labeling FISH probes from a complex oligo library](https://cdn.rawgit.com/omidalam/FISH_oligo_lib/be4f068e/ePCR.html) ([pdf](https://cdn.rawgit.com/omidalam/FISH_oligo_lib/be4f068e/ePCR.pdf))
-+ [Cleaning stir bars for ePCR](./protocols/cleaning_stir_bars.html) ([pdf](./cleaning_stir_bars.pdf))
++ [Preparing and labeling FISH probes from a complex oligo library](https://htmlpreview.github.io/?https://github.com/omidalam/FISH_protocols/blob/master/ePCR.html) ([pdf](https://github.com/omidalam/FISH_protocols/blob/master/ePCR.pdf))
++ [Cleaning stir bars for ePCR](https://htmlpreview.github.io/?https://github.com/omidalam/FISH_protocols/blob/master/cleaning_stir_bars.html) ([pdf](https://github.com/omidalam/FISH_protocols/blob/master/cleaning_stir_bars.pdf))
++ [3D-FISH in HCT116](https://htmlpreview.github.io/?https://github.com/omidalam/FISH_protocols/blob/master/3D-FISH_HCT116.html) ([pdf](https://github.com/omidalam/FISH_protocols/blob/master/3D-FISH_HCT116.pdf))
 
 ## Kitchen protocols
 
