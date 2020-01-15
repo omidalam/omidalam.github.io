@@ -1,0 +1,50 @@
+---
+title: "Simple Marinara Sauce"
+author: "omidalam"
+date: "7/8/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Intro
+This is the marinara sauce I make all winter. It’s very similar to a fresh tomato sauce recipe, but canned tomatoes stand in for the fresh ones so you won’t have to peel the tomatoes or put them through a food mill. If you buy chopped tomatoes in juice, you won’t even have to dice them.
+
+Yield: Enough for 4 pasta servings
+
+## Ingredients
+
+- 1 (28-ounce) can tomatoes, seeded and chopped if not already chopped, with juice
+
+- 1 tablespoon extra virgin olive oil
+
+- 2 garlic cloves, minced
+
+- 1/8 teaspoon sugar
+
+- A few sprigs of fresh basil, if available (see variations below)
+
+- Salt to taste
+
+- 1 tablespoon slivered fresh basil (optional)
+
+## Method
+1. Pulse the chopped tomatoes in a food processor fitted with the steel blade, or pass through the medium blade of a food mill before you begin. 
+2. Heat the oil over medium heat in a large, wide nonstick skillet or saucepan and add the garlic. Cook, stirring, for 30 seconds to a minute, until it begins to smell fragrant, and add the tomatoes and their juice, the sugar, salt, and basil sprigs. 
+3. Stir and turn up the heat. When the tomatoes begin to bubble, lower the heat to medium and cook, stirring often, until thick and fragrant, 15 to 20 minutes, or longer if necessary. 
+4. Remove the basil sprigs and wipe any sauce adhering to them back into the pan. Taste and adjust seasonings. 
+5. Stir in the slivered basil.
+
+
+### Variations
+
+Substitute 1 teaspoon fresh thyme leaves or 1/2 teaspoon dried thyme for the basil
+
+Substitute 1 teaspoon dried oregano for the basil.
+
+# Disclaimer
+
+This recipe is from NYT column "Recipes for Health". It was originally published on October, 13, 2008 by Martha Shulman.
