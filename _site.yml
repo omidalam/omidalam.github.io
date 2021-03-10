@@ -3,14 +3,14 @@ output_dir: "."
 navbar:
   title: "Omid Gholamalamdari"
   left:
-    - text: "Research"
-      href: research.html
     - text: "Teaching"
       href: teaching.html      
     - text: "Software"
       href: software.html
     - text: "Protocols"
       href: protocols.html
+    - text: "CV"
+      href: files/Omid_Gholamalamdari_CV.pdf  
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
